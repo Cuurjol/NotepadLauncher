@@ -1,0 +1,19 @@
+C:\Users\Cuurjol\Desktop\NotepadLauncher\NotepadLauncher\obj\Debug\NotepadLauncher.csprojResolveAssemblyReference.cache
+C:\Users\Cuurjol\Desktop\NotepadLauncher\NotepadLauncher\obj\Debug\Custom Controls\CustomWidget.baml
+C:\Users\Cuurjol\Desktop\NotepadLauncher\NotepadLauncher\obj\Debug\MainWindow.baml
+C:\Users\Cuurjol\Desktop\NotepadLauncher\NotepadLauncher\obj\Debug\Custom Controls\CustomWidget.g.cs
+C:\Users\Cuurjol\Desktop\NotepadLauncher\NotepadLauncher\obj\Debug\MainWindow.g.cs
+C:\Users\Cuurjol\Desktop\NotepadLauncher\NotepadLauncher\obj\Debug\App.g.cs
+C:\Users\Cuurjol\Desktop\NotepadLauncher\NotepadLauncher\obj\Debug\NotepadLauncher_MarkupCompile.cache
+C:\Users\Cuurjol\Desktop\NotepadLauncher\NotepadLauncher\obj\Debug\NotepadLauncher.g.resources
+C:\Users\Cuurjol\Desktop\NotepadLauncher\NotepadLauncher\obj\Debug\NotepadLauncher.Properties.Resources.resources
+C:\Users\Cuurjol\Desktop\NotepadLauncher\NotepadLauncher\obj\Debug\NotepadLauncher.csproj.GenerateResource.cache
+C:\Users\Cuurjol\Desktop\NotepadLauncher\NotepadLauncher\obj\Debug\NotepadLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Cuurjol\Desktop\NotepadLauncher\NotepadLauncher\bin\Debug\NotepadLauncher.exe.config
+C:\Users\Cuurjol\Desktop\NotepadLauncher\NotepadLauncher\bin\Debug\NotepadLauncher.exe
+C:\Users\Cuurjol\Desktop\NotepadLauncher\NotepadLauncher\bin\Debug\NotepadLauncher.pdb
+C:\Users\Cuurjol\Desktop\NotepadLauncher\NotepadLauncher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Cuurjol\Desktop\NotepadLauncher\NotepadLauncher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Cuurjol\Desktop\NotepadLauncher\NotepadLauncher\obj\Debug\NotepadLauncher.csproj.CopyComplete
+C:\Users\Cuurjol\Desktop\NotepadLauncher\NotepadLauncher\obj\Debug\NotepadLauncher.exe
+C:\Users\Cuurjol\Desktop\NotepadLauncher\NotepadLauncher\obj\Debug\NotepadLauncher.pdb

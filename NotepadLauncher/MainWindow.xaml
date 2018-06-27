@@ -1,0 +1,30 @@
+﻿<Window x:Class="NotepadLauncher.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="NotepadLauncher" 
+        Height="440"
+        Width="470"
+        ResizeMode="NoResize"
+        MouseLeftButtonDown="Window_MouseLeftButtonDown"
+        Closed="Window_Closed">
+    <Window.Resources>
+        <Style x:Key="MainWindowButton" TargetType="Button">
+            <Setter Property="ContentTemplate">
+                <Setter.Value>
+                    <DataTemplate>
+                        <TextBlock Text="{TemplateBinding Content}" TextWrapping="Wrap" FontSize="24"/>
+                    </DataTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <ListBox Name="ListBoxFiles" HorizontalAlignment="Left" Width="435" Height="300" Margin="10" VerticalAlignment="Top" SelectionMode="Single" SelectionChanged="ListBox_SelectedItem_Click" MouseDoubleClick="ListBox_CancelSelection_DoubleClick"/>
+        <Button Name="ButtonCreateWidgetItem" Style="{StaticResource MainWindowButton}" Content="Создать виджет" HorizontalAlignment="Left" Margin="10,324,10,0" VerticalAlignment="Top" Width="100" Click="Button_CreateNewWidget_Click"/>
+        <Button Name="ButtonDeleteWidgetItem" Style="{StaticResource MainWindowButton}" Content="Удалить виджет" HorizontalAlignment="Right" Margin="10,324,10,0" VerticalAlignment="Top" Width="100" IsEnabled="False" Click="Button_DeleteWidget_Click"/>
+    </Grid>
+</Window>
+
